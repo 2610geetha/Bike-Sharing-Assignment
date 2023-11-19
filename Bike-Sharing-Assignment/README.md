@@ -18,28 +18,17 @@ To know the accuracy of the model, i.e. how well these variables can predict Bik
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
  Comparision between Training and Testing dataset:
-    - Train dataset R^2          : 0.839
-    - Test dataset R^2           : 0.803
+    - Train dataset R^2          : 0.836
+    - Test dataset R^2           : 0.8122
         
-    - Train dataset Adjusted R^2 : 0.836    
-    - Test dataset Adjusted R^2  : 0.7957
+    - Train dataset Adjusted R^2 : 0.832   
+    - Test dataset Adjusted R^2  : 0.802
 
 Demand of bikes depend on year, holiday, temp, windspeed, sep,sun, Light_snowrain, Misty, spring, summer and winter.
 
@@ -52,12 +41,6 @@ Demand of bikes depend on year, holiday, temp, windspeed, sep,sun, Light_snowrai
 - SK
 learn
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
